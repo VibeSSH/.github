@@ -1,7 +1,7 @@
 # VibeSSH
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VibeSSH/.github/main/profile/dashboard.png"
+  <img src="https://raw.githubusercontent.com/VibeSSH/.github/main/profile/vibessh-dashboard.png"
        alt="The VibeSSH dashboard: two nodes with live CPU and memory, and the applications running on them"
        width="880">
 </p>
