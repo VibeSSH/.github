@@ -1,5 +1,11 @@
 # VibeSSH
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VibeSSH/.github/main/profile/dashboard.png"
+       alt="The VibeSSH dashboard: two nodes with live CPU and memory, and the applications running on them"
+       width="880">
+</p>
+
 **Run your Linux servers from a desktop app. Nothing to host, no panel to maintain.**
 
 VibeSSH is a desktop application for Windows and Linux that manages Linux
