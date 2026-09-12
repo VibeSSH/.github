@@ -1,6 +1,10 @@
 # VibeSSH
 
 <p align="center">
+  <a href="https://github.com/VibeSSH/.github/blob/main/profile/README.md">English</a> · <a href="https://github.com/VibeSSH/.github/blob/main/profile/README.pl.md">Polski</a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/VibeSSH/.github/main/profile/vibessh-dashboard.png"
        alt="The VibeSSH dashboard: two nodes with live CPU and memory, and the applications running on them"
        width="880">
@@ -59,11 +63,18 @@ Site and documentation: [**vibessh.dev**](https://vibessh.dev)
 No. Nodes, applications, files, the terminal, the firewall and backups all
 work without signing in to anything.
 
-An account exists only for teams and shared servers, and the backend behind it
-is one you run yourself — VibeSSH operates no account service, and your
-credentials never leave your machine. SSH passwords and key passphrases live
-in the operating system's own credential store, never in a configuration file.
+An account exists only for teams and shared servers. There is a hosted one at
+`api.vibessh.dev` that a fresh install points at, and you can run the backend
+yourself instead — it is in the repository, and the address is a setting.
+
+Either way, an account is about sharing servers with other people and nothing
+else. Your SSH credentials are not part of it: passwords and key passphrases
+live in the operating system's own credential store on your machine, never in
+a configuration file and never on a server of ours.
 
 ## Status
 
-Public beta, released regularly. Licensed under AGPL-3.0.
+Public beta, released regularly. The source is public and
+[AGPL-3.0](https://github.com/VibeSSH/vibessh/blob/main/LICENSE.txt) — issues
+and pull requests are welcome at
+[VibeSSH/vibessh](https://github.com/VibeSSH/vibessh).
